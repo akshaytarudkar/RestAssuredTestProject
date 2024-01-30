@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-18T17:52:17 IST" name="Testing Google Apps" finished-at="2024-01-18T17:52:23 IST" duration-ms="6303">
+  <suite started-at="2024-01-19T16:14:21 IST" name="Default suite" finished-at="2024-01-19T16:14:26 IST" duration-ms="5343">
     <groups>
     </groups>
-    <test started-at="2024-01-18T17:52:17 IST" name="RestAssuredTest" finished-at="2024-01-18T17:52:23 IST" duration-ms="6303">
+    <test started-at="2024-01-19T16:14:21 IST" name="Default test" finished-at="2024-01-19T16:14:26 IST" duration-ms="5343">
       <class name="Request.DefaultRequestSpecificationExample">
-        <test-method is-config="true" signature="setupDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@3aa078fd]" started-at="2024-01-18T17:52:17 IST" name="setupDefaultRequestSpecification" finished-at="2024-01-18T17:52:19 IST" duration-ms="1661" status="PASS">
+        <test-method is-config="true" signature="setupDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@d23e042]" started-at="2024-01-19T16:14:21 IST" name="setupDefaultRequestSpecification" finished-at="2024-01-19T16:14:22 IST" duration-ms="996" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDefaultRequestSpecification -->
-        <test-method signature="overrideDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@3aa078fd]" started-at="2024-01-18T17:52:19 IST" name="overrideDefaultRequestSpecification" finished-at="2024-01-18T17:52:22 IST" duration-ms="3224" status="PASS">
+        <test-method signature="overrideDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@d23e042]" started-at="2024-01-19T16:14:22 IST" name="overrideDefaultRequestSpecification" finished-at="2024-01-19T16:14:25 IST" duration-ms="3082" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- overrideDefaultRequestSpecification -->
-        <test-method signature="useDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@3aa078fd]" started-at="2024-01-18T17:52:22 IST" name="useDefaultRequestSpecification" finished-at="2024-01-18T17:52:23 IST" duration-ms="1295" status="PASS">
+        <test-method signature="useDefaultRequestSpecification()[pri:0, instance:Request.DefaultRequestSpecificationExample@d23e042]" started-at="2024-01-19T16:14:25 IST" name="useDefaultRequestSpecification" finished-at="2024-01-19T16:14:26 IST" duration-ms="1170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- useDefaultRequestSpecification -->
       </class> <!-- Request.DefaultRequestSpecificationExample -->
-    </test> <!-- RestAssuredTest -->
-  </suite> <!-- Testing Google Apps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
