@@ -147,6 +147,23 @@
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
+				<plugin>
+					<groupId>org.allure-framework</groupId>
+					<artifactId>allure-maven-plugin</artifactId>
+					<version>3.0.1</version>
+					<executions>
+						<execution>
+							<phase>post-integration-test</phase>
+							<goals>
+								<goal>report</goal>
+							</goals>
+						</execution>
+					</executions>
+					<configuration>
+						<resultsDirectory>target/surefire-reports/</resultsDirectory>
+						<reportDirectory>target/allure-results/</reportDirectory>
+					</configuration>
+				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
