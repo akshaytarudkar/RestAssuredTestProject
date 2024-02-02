@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+import io.qameta.allure.Step;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
@@ -24,7 +25,7 @@ public class DefaultRequestSpecificationExample {
 		RestAssured.requestSpecification = request1;
 	}
 	
-	
+	@Step("TEst case 1")
 	@Test
 	public void useDefaultRequestSpecification()
 	{
