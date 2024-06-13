@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restassuredIntermidiate.JsonPayloadSender">
+      <class name="restassuredIntermidiate.CreatingJSONrequestbodyusingJavaList">
         <methods>
-          <include name="passFileAsPayload"/>
+          <include name="CreatingJSONObjectTest"/>
         </methods>
-      </class> <!-- restassuredIntermidiate.JsonPayloadSender -->
+      </class> <!-- restassuredIntermidiate.CreatingJSONrequestbodyusingJavaList -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

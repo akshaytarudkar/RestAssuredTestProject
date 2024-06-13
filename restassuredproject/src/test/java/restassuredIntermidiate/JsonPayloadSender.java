@@ -14,7 +14,8 @@ public class JsonPayloadSender {
 	public void passFileAsPayload()
 	{
 		// Creating a File instance 
-		File jsonDataInFile = new File("src/test/resources/Payload/jsonPayload.json");
+		String location="src/test/resources/Payload/jsonPayload.json";
+		File jsonDataInFile = new File(location);
 	
 		//GIVEN
 		RestAssured

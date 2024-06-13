@@ -10,7 +10,7 @@ public class Demo {
 	         // Using the set() method to set the values
 	         stu.setName("AKSHAY");  
 	         stu.setRoll("224");  
-	         stu.setMarks(70);  
+	         stu.setMarks(80);  
 
 
 	         // Using the get() method to get the values
