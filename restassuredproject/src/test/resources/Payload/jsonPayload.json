@@ -1,0 +1,26 @@
+{
+	“Country”: “India”,
+	“Population”: “138 cr”,
+	“Capital”: “Delhi”,
+	“Major Cities”:
+		{
+			“City Name”: “Mumbai”,
+			“State”: “Maharashtra”
+		},
+		{
+			“City Name”: “Kolkata”,
+			“State”: “West Bengal”
+		},
+		{
+			“City Name”: “Hyderabad”,
+			“State”: “Telangana”
+		},
+		{
+			“City Name”: “Banglore”,
+			“State”: “Karnataka”
+		},
+	],
+	“Tourist Places”: [
+		“Ooty”, “Jaipur”, “Coorg”, “Agra”, “Lonavala”, “Darjeeling”
+	]
+}
