@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-12T15:25:19 IST" name="Default suite" finished-at="2024-06-12T15:25:19 IST" duration-ms="751">
+  <suite started-at="2024-08-16T14:58:18 IST" name="Default suite" finished-at="2024-08-16T14:58:19 IST" duration-ms="534">
     <groups>
     </groups>
-    <test started-at="2024-06-12T15:25:19 IST" name="Default test" finished-at="2024-06-12T15:25:19 IST" duration-ms="751">
-      <class name="restassuredIntermidiate.POJOClassJSONArrayPayload">
-        <test-method signature="CreateList()[pri:0, instance:restassuredIntermidiate.POJOClassJSONArrayPayload@5e4bd84a]" started-at="2024-06-12T15:25:19 IST" name="CreateList" finished-at="2024-06-12T15:25:19 IST" duration-ms="578" status="PASS">
+    <test started-at="2024-08-16T14:58:18 IST" name="Default test" finished-at="2024-08-16T14:58:19 IST" duration-ms="534">
+      <class name="IgnoreUnkonwnProperties.IgnoreUnknownPropertiesObjMap">
+        <test-method signature="missingproperties()[pri:0, instance:IgnoreUnkonwnProperties.IgnoreUnknownPropertiesObjMap@16ce702d]" started-at="2024-08-16T14:58:18 IST" name="missingproperties" finished-at="2024-08-16T14:58:19 IST" duration-ms="364" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateList -->
-      </class> <!-- restassuredIntermidiate.POJOClassJSONArrayPayload -->
+        </test-method> <!-- missingproperties -->
+      </class> <!-- IgnoreUnkonwnProperties.IgnoreUnknownPropertiesObjMap -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

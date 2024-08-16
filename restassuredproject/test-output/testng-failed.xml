@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restassuredIntermidiate.CreatingJSONrequestbodyusingJavaList">
+      <class name="IgnoreUnkonwnProperties.IgnoreUnkownJsonProperties">
         <methods>
-          <include name="CreatingJSONObjectTest"/>
+          <include name="missingunknown"/>
         </methods>
-      </class> <!-- restassuredIntermidiate.CreatingJSONrequestbodyusingJavaList -->
+      </class> <!-- IgnoreUnkonwnProperties.IgnoreUnkownJsonProperties -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
